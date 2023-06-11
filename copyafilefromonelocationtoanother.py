@@ -1,6 +1,6 @@
 import shutil
 a=""
-with open("C:\\Users\\AL\\Desktop\\random_text_files\\text2.txt","w") as file:
+with open("C:\\Users\\(user)\\Desktop\\random_text_files\\text2.txt","w") as file:
     file.write(a)
 a = input("Do you want to copy the files of text.txt to text2.txt?(yes/no)")
 if a.upper() == "YES":
