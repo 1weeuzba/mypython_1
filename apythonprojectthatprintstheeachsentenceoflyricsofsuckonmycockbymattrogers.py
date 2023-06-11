@@ -11,7 +11,7 @@ j="Drag your tongue across my meat"
 
 try:
    for i in range(1,10+1,1):
-      with open(f"C:\\Users\\AL\\Desktop\\random_text_files\\text_{i}.txt","w") as file:
+      with open(f"C:\\Users\\(user)\\Desktop\\random_text_files\\text_{i}.txt","w") as file:
          if i == 1:
             file.write(a)
          elif i == 2:
