@@ -1,6 +1,6 @@
 import os
 source = "C:\\Users\\(user)\\Desktop\\random_text_files\\text.txt"
-destination = "C:\\Users\\AL\\Desktop\\moved\\text.txt"
+destination = "C:\\Users\\(user)\\Desktop\\moved\\text.txt"
 try:
     if os.path.exists(destination):
         print("File already exists")
